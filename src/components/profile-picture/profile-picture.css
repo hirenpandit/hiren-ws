@@ -1,0 +1,10 @@
+.profile-picture {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url(../../../public/profile_picture.jpeg);
+}
